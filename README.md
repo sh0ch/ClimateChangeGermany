@@ -21,11 +21,11 @@ Weiterhin wird der Einfluss der geologischen Lage der Wetterstationen untersucht
 
 # 3. Historie der Wetterstationen in Deutschland
 
-![SegmentLocal](images\Wetterstationen_historie.gif "segment")
+![](images\Wetterstationen_historie.gif)
 
 # 4. Durchschnittliche Temperaturerhöhung pro Monat
 
-![alt text](images\Durchschnittliche_Temperaturerhöhung.png)
+![](images\Durchschnittliche_Temperaturerhöhung.png)
 
 # 5. Quellen
 
